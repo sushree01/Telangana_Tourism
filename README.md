@@ -1,4 +1,4 @@
-# Telangan_Tourism
+# Telangana_Tourism
 
 Check out the interactive report here: 
 https://www.novypro.com/project/telangana-tourism---providing-insights-for-telangana-government-tourism-department-power-bi
